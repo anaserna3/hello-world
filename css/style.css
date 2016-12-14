@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {font-family: "futura";src: url(../fonts/futura.ttf) format("truetype");}
+/*@font-face {font-family: "Abadi MT Std";src: url(../fonts/Abadi-MT-Condensed-Light-Regular.ttf) format("truetype");}*/
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: "futura";
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#005096+0,0099ff+100 */
+	background: #fff;
+	background-size: 100%;
+}
